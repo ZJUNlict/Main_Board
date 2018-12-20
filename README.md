@@ -4,7 +4,7 @@ ZJUNlict Main Board Design for the RoboCup Soccer Small-Size League https://zjun
 
 The main board is designed to replace the [core board](https://github.com/ZJUNlict/Core_Board), [mother board](https://github.com/ZJUNlict/Mother_Board) and [motor driver board](https://github.com/ZJUNlict/Motor_Driver_Board) which is currently under testing. (The board is designed using [Altium Designer](https://www.altium.com/altium-designer/) 17.1)
 
-**Thanks for Team TIGERs Mannheim's [opensource electronics design](https://tigers-mannheim.de/index.php?id=65), which gives a mature seperate BLDC controller design with small footprint and relative low cost.**
+**Sincere thanks for Team TIGERs Mannheim's [opensource electronics design](https://tigers-mannheim.de/index.php?id=65), which gives a mature seperate BLDC controller design with small footprint and relative low cost.**
 
 Blank board photos are shown below.
 
