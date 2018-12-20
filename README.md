@@ -17,7 +17,7 @@ The main features are:
 * STM32H743ZIT6 as the main controller with frequency up to 400MHz.
 * Two nRF24L01P modules operate in different frequency handles package receiving and transmitting.
 * An IO expansion chip PCA9539 reads rotary DIP switchs.
-* Five BLDC controller chips A3930 controls five motors.
+* Five BLDC controller chips A3930 controls five motors based on Team TIGERs Mannheim's design.
 * Differential receiver chip SN65LBC175 receives encoder signal.
 * AD converter chip ADS112C04IPWR process the current signal from A3930.
 * Interface to external gyroscope, accelerometer, compass and optic flow chips. (IIC and SPI)
