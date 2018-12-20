@@ -1,0 +1,67 @@
+Bill of Material for ,,,,
+On 2018/12/20 at 20:23:41,,,,
+,,,,
+Comment,Pattern,Quantity,Components,
+,,,,
+0.02,1206 10A,5,"R6_1, R67, R73, R79, R85",Resistor
+0.1uF,0603C,10,"C11_1, C12_1, C56, C57, C68, C69, C80, C81, C93, C94",Capacitor
+0.1uF,0805C,33,"C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C15, C16, C17, C18, C29, C31, C32, C33, C41, C42, C43, C44, C45, C54, C55, C66, C67, C78, C79, C85, C91",Capacitor
+10,10,1,J,
+100,0805R,1,R4,Resistor
+100K,0603R,5,"R2_1, R63, R69, R75, R81",Resistor
+1050170001,Micro_USB,1,CN1,
+10A,FUSE_HEADER,5,"F1_1, F3, F4, F5, F6",
+10K,0603R,10,"R3_1, R5_1, R64, R66, R70, R72, R76, R78, R82, R84",Resistor
+10K,0805R,46,"R8, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R35, R36, R37, R38, R39, R40, R41, R42, R46, R47, R48, R49, R50, R51, R91, R92, R93, R94, R95, R96, R97, R98, R101",Resistor
+150K,0603R,5,"R4_1, R65, R71, R77, R83",Resistor
+1K,0805R,2,"R3, R7",Resistor
+1nF,0603C,5,"C3_1, C48, C60, C72, C84",Capacitor
+1uF,0603C,15,"C1_1, C2_1, C9_1, C46, C47, C53, C58, C59, C65, C70, C71, C77, C82, C83, C90",Capacitor
+1uF,0805C,1,C14,Capacitor
+2.2K,0805R,2,"R2, R6",Resistor
+20,20SWD,1,1,
+20K,0805R,3,"R1, R90, R102",Resistor
+22k,0805R,1,R44,Resistor
+3.3k,0805R,1,R45,Resistor
+300,0805R,1,R5,Resistor
+32.768KHZ,FC255_32.768K,1,X1,Crystal
+33nF,0603C,15,"C6_1, C7_1, C8_1, C50, C51, C52, C62, C63, C64, C74, C75, C76, C87, C88, C89",Capacitor
+3A,2512r,2,"F1, F2",Resistor
+4.7K,603,5,"R58, R59, R60, R61, R89",
+4.7K,805,3,"R86, R87, R88",
+4.7uF,0805C,1,C1,Capacitor
+4,4,4,"J1, J2, J3, J5",
+470,0805R,1,R43,Resistor
+470nF,0603C,5,"C5_1, C49, C61, C73, C86",Capacitor
+470uF,470uF,5,"C25, C26, C27, C38, C92",Capacitor
+47K,0603R,5,"R1_1, R62, R68, R74, R80",Resistor
+510,0805R,2,"R33, R34",Resistor
+8MHZ,5320_8M,1,X2,Crystal
+9013,SO-G3/Y1,2,"Q1, Q2",NPN General Purpose Amplifier
+A3930,LQFP-48,5,"U1_1, U15, U17, U20, U22",
+ADS112C04IPWR,TSSOP_PW0016A_ADS112C04,1,U5,Imported
+ADUM141D0BRQZ,RQ_16,5,"U11, U14, U16, U19, U21",Imported
+BA33DD0WHFP,HRP5_16TO5,1,U9,
+BA50DD0WHFP,HRP5_16TO5,1,U8,
+Buzzer,Buzzer,1,LS1,Buzzer
+CH340B,SOP16,1,U12,
+COAX-M,A6RV-161RS,3,"P1, P2, P3","RF Coaxial PCB Connector, MMCX; Thru-Hole, Vertical Mount Plug,  50 Ohm Impedance"
+Header 2,SMD-2P-1.25,1,JP2,"Header, 2-Pin"
+Header 2X2,2*2_2.5mm,1,JP4,"Header, 2-Pin, Dual row"
+Header 3,SMD-3P-1.25,1,JP1,"Header, 3-Pin"
+Header 4X2,2*4_2.5mm,1,JP3,"Header, 4-Pin, Dual row"
+Header 5,SMD-5P-1.25,4,"P2_1, P11, P13, P15","Header, 5-Pin"
+Header_8P,Header_8P,5,"P1_1, P10, P12, P14, P16",Used for Motor connection in ZJUNlict
+IRF8313,so-8 bg,15,"Q1_1, Q2_1, Q3_1, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13, Q14, Q15, Q16, Q17",
+led,0603_diode,5,"LED1, LED2, LED3, LED4, LED5",
+LED1,0805D,1,DS2,"Typical RED, GREEN, YELLOW, AMBER GaAs LED"
+LED2,0805D,3,"DS1, DS3, DS4","Typical RED, GREEN, YELLOW, AMBER GaAs LED"
+MBR120VLSFT1G SOD123,sod123,2,"D4, D5",Default Diode
+MC34152D,SO-G8,1,U4,High Speed Dual MOSFET Driver
+MCU_LQFP144,LQFP144_0R5_SKT,1,U1,
+NRF2401P+,NRF2401P+_zeyao,2,"U6, U7",
+PCA9539_PW_24,PW24-L_pca9539,1,U2,"Remote 16-Bit I2C And SMBus, Low-Power I/O Expander With Interrupt Output, Reset & Config. Registers"
+SN65LBC175A-EP_16,SOP16,2,"U13, U18",Quadruple 2-Input Positive-NAND Gates
+SS36,SMC,1,D1,Default Diode
+TL4050A10_DBZ_3,DBZ3-L,1,U3,Precision Micropower Shunt Voltage Reference
+,,,,Plug
