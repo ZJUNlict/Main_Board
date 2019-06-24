@@ -1,11 +1,9 @@
-Output: Simple BOM
-Type  : SimpleBOM
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [Main_Board.PrjPCB]
-   Generated File[Main_Board.BOM]
-   Generated File[Main_Board.CSV]
 
 
-Files Generated   : 2
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 20:23:41 On 2018/12/20
+Finished Output Generation At 19:47:06 On 2019/6/24
